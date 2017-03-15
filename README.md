@@ -1,5 +1,5 @@
 <p align="center" style="margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/heldrida/reactatouille-boilerplate/master/template/src/images/punkbit-cropped.png?201703151637" height="200">
+  <img src="https://github.com/heldrida/punkbit-website-2017/blob/master/src/images/punkbit-cropped.png?201703151637" height="200">
 </p>
 <p align="center">
 	The Punkbit Website!
