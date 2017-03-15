@@ -1,5 +1,5 @@
 <p align="center" style="margin: 30px 0;">
-  <img src="https://github.com/heldrida/punkbit-website-2017/blob/master/src/images/punkbit-cropped.png?201703151637" height="200">
+  <img src="https://github.com/heldrida/punkbit-website-2017/blob/master/src/images/punkbit-cropped.png?201703151637" width="180">
 </p>
 <p align="center">
 	The Punkbit Website!
