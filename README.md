@@ -1,8 +1,8 @@
 <p align="center" style="margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/heldrida/reactatouille-boilerplate/master/template/src/images/punkbit-cropped.png?201701241142" height="200">
+  <img src="https://raw.githubusercontent.com/heldrida/reactatouille-boilerplate/master/template/src/images/punkbit-cropped.png?201703151637" height="200">
 </p>
 <p align="center">
-	Reactatouille provides a simple boilerplate setup to allow the developer to focus in what matters.
+	The Punkbit Website!
 </p>
 
 ## Getting Started
