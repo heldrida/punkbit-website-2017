@@ -1,8 +1,5 @@
-[![Build Status](https://travis-ci.org/heldrida/reactatouille-boilerplate.svg?branch=master)](https://travis-ci.org/heldrida/reactatouille-boilerplate)
-[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com/)
-
 <p align="center" style="margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/heldrida/reactatouille-boilerplate/master/template/src/images/logo-reactatouille-boilerplate.png?201701241142" height="200">
+  <img src="https://raw.githubusercontent.com/heldrida/reactatouille-boilerplate/master/template/src/images/punkbit-cropped.png?201701241142" height="200">
 </p>
 <p align="center">
 	Reactatouille provides a simple boilerplate setup to allow the developer to focus in what matters.
