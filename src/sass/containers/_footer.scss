@@ -1,0 +1,12 @@
+// Michele Guidarini
+footer {
+  background: #000;
+  position: fixed;
+  left: -50px;
+  z-index: -1;
+  bottom: 0;
+  width: calc(100% + 50px);
+  height: 400px;
+  background-image: url(http://i.imgur.com/fi1XASU.jpg);
+  background-repeat: repeat;
+}
