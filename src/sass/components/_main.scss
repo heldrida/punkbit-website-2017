@@ -3,12 +3,13 @@ body {
   font-size: 18px;
 }
 .app {
-  width: calc(100vw - 100px);
+  width: calc(100vw - 160px);
   height: 100vh;
-  margin: 50px;
+  margin: 80px;
   h1,h2,h3 {
     font-family: 'Waiting for the Sunrise', cursive;
     font-size: 3rem;
+    font-weight: bold;
     line-height: 2rem;
     letter-spacing: 0.01rem;
     margin-bottom: 20px;
@@ -32,7 +33,7 @@ body {
     margin: 20px 0;
     display: block;
     font-size: 1.6rem;
-    line-height: 1.8rem;
+    line-height: 2.2rem;
     letter-spacing: 0.01rem;
     &:before {
       content: '"';
@@ -47,5 +48,7 @@ body {
   main {
     background: #fff;
     padding: 40px;
+    min-height: 100vh; // todo: temporary, just for proof of concept
+    margin-bottom: 400px;
   }
 }

@@ -9,4 +9,10 @@ footer {
   height: 400px;
   background-image: url(http://i.imgur.com/fi1XASU.jpg);
   background-repeat: repeat;
+  .footer-content {
+    width: calc(100% - 150px);
+    height: 100%;
+    margin: 0 auto;
+    @include transform(translateX(25px));
+  }
 }
