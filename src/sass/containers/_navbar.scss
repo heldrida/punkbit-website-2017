@@ -1,0 +1,23 @@
+nav {
+  display: inline-block;
+  li {
+    font-size: 2.2rem;
+    display: inline-block;
+    margin: 0 16px;
+    font-weight: bold;
+    @include transition(opacity 0.3s);
+    a {
+      color: inherit;
+      text-decoration: inherit;
+    }
+    &:hover {
+      opacity: 0.6;
+    }
+  }
+}
+#main-nav {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  @include transform(translateY(-50%));
+}

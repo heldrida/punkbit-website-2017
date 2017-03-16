@@ -15,6 +15,7 @@
 // Containers (Layout) contains styling for larger layout components; e.g. nav, header, footer, etc.
 @import "containers/header";
 @import "containers/footer";
+@import "containers/navbar";
 
 // Components contains each self-contained component in its own partial
 @import "components/main";
